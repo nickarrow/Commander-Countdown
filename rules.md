@@ -16,7 +16,7 @@ At the start of the game, a 12-sided die is placed in the center of the table, s
 
 ## Playing lands
 Lands are played per normal Commander rules, with the following exceptions:
-1. The first three lands a player puts into play are placed in the center of the table, in front of them. These three lands become the "terrain" for each player.
+1. The first three lands a player puts into play are placed in front of the player, towards the center of the table. These three lands become the "terrain" for each player.
 2. The terrain lands may be tapped and function like any other lands played in the game, except that creatures must be cast onto these lands, and;
 3. Other players may attempt to invade and conquer the terrain lands.
 
